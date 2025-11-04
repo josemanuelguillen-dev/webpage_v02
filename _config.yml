@@ -1,3 +1,5 @@
 title: Mi sitio web sencillo
 description: Página creada con Jekyll y GitHub Pages
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
