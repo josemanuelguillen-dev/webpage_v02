@@ -3,7 +3,7 @@ layout: splash
 title: Inicio
 ---
 
-# ¡Bienvenido a mi sitio web: JOSE MANUEL GUILLÉN!
+# ¡Bienvenido a mi sitio web: JOSE MANUEL GUILLÉN! Esta es la version 2
 
 Esta es una página web de mierda creada por mí con Jekyll y Github Pages
 
