@@ -12,6 +12,28 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "es-ES"
+###
+collections:
+  profesores:
+    output: true
+  cursos:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: profesores
+    values:
+      layout: single
+  -
+    scope:
+      path: ""
+      type: cursos
+    values:
+      layout: single
+###
+
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 # title                    : "Site Title"
 title_separator          : "-"
