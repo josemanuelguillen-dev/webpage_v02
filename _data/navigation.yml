@@ -1,7 +1,13 @@
 main:
   - title: "Inicio"
     url: /
-  - title: "Sobre mí"
+  - title: "Nosotros"
     url: /acercade/
+  - title: "Profesores"
+    url: /profesores/
+  - title: "Cursos"
+    url: /cursos/
+  - title: "Noticias"
+    url: /blog/
   - title: "Contacto"
     url: /contacto/
