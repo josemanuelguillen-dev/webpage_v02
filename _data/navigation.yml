@@ -5,8 +5,8 @@ main:
     url: /acercade/
 #  - title: "Profesores"
 #    url: /profesores/
-  - title: "Cursos"
-    url: /cursos/
+  - title: "Ciclos formativos"
+    url: /ciclos/
   - title: "Noticias"
     url: /blog/
   - title: "Contacto"
