@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página de contacto
+title: Página de contacto de merde
 permalink: /contacto/
 ---
 
