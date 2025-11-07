@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: Página de contacto de merde
 permalink: /contacto/
 ---
