@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Nosotros"
     url: /acercade/
-  - title: "Profesores"
-    url: /profesores/
+#  - title: "Profesores"
+#    url: /profesores/
   - title: "Cursos"
     url: /cursos/
   - title: "Noticias"
