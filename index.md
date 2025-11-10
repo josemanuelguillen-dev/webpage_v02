@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Inicio
+author_profile: true
 ---
 
 # ¡Bienvenido a mi sitio web: JOSE MANUEL GUILLÉN! Esta es la version 2
